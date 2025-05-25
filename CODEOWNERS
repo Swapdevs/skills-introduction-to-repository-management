@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Swapdevs
+/src/backend/database.py      @Swapdevs
+/src/backend/routers/auth.py  @Swapdevs
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Swapdevs
